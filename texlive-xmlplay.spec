@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-xmlplay
 Version:	20061216
-Release:	7
+Release:	8
 Summary:	Typeset Shakespeare's plays as marked up by Bosak
 Group:		Publishing
 URL:		http://tug.org/texlive

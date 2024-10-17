@@ -9,7 +9,7 @@ Version:	20061216
 Release:	12
 Summary:	Typeset Shakespeare's plays as marked up by Bosak
 Group:		Publishing
-URL:		http://tug.org/texlive
+URL:		https://tug.org/texlive
 License:	PD
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xmlplay.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xmlplay.doc.tar.xz
